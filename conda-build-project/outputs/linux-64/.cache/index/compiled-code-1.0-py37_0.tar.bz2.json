@@ -1,0 +1,1 @@
+{"build": "py37_0", "build_number": 0, "depends": ["python >=3.7,<3.8.0a0"], "name": "compiled-code", "subdir": "linux-64", "timestamp": 1587491657928, "version": "1.0", "size": 5587, "md5": "7f1d0c286294bf3fd15959d08e689b2e", "sha256": "b3df081bbfc16fbab255cf4302612f2cdc8761ee7f9a31f48bdf2487e334bf6c"}

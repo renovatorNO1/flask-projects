@@ -1,0 +1,38 @@
+{
+  "info": {
+    "subdir": "linux-64"
+  },
+  "packages": {
+    "compiled-code-1.0-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "python >=2.7,<2.8.0a0"
+      ],
+      "md5": "85d6e473f214f64b61dd4c34a883ae2d",
+      "name": "compiled-code",
+      "sha256": "03fa05a20212f83e394328318b0af9c7d9c1a6400da369db0eefeee84e4d4990",
+      "size": 13968,
+      "subdir": "linux-64",
+      "timestamp": 1587491667106,
+      "version": "1.0"
+    },
+    "compiled-code-1.0-py37_0.tar.bz2": {
+      "build": "py37_0",
+      "build_number": 0,
+      "depends": [
+        "python >=3.7,<3.8.0a0"
+      ],
+      "md5": "7f1d0c286294bf3fd15959d08e689b2e",
+      "name": "compiled-code",
+      "sha256": "b3df081bbfc16fbab255cf4302612f2cdc8761ee7f9a31f48bdf2487e334bf6c",
+      "size": 5587,
+      "subdir": "linux-64",
+      "timestamp": 1587491657928,
+      "version": "1.0"
+    }
+  },
+  "packages.conda": {},
+  "removed": [],
+  "repodata_version": 1
+}

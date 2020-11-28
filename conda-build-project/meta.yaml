@@ -1,0 +1,9 @@
+package:
+  name: compiled-code
+  version: 1.0
+
+requirements:
+  build:
+    - python {{ python }}
+  run:
+    - python
